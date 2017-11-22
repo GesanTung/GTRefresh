@@ -1,0 +1,16 @@
+PODS:
+  - CMKRefresh (1.0.0)
+
+DEPENDENCIES:
+  - CMKRefresh (from `../`)
+
+EXTERNAL SOURCES:
+  CMKRefresh:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CMKRefresh: 6f37cd680052f251b56dc73c6c044ddc6521fb6b
+
+PODFILE CHECKSUM: abfee1b2043f9ccd9eb6072ad4391565ba593595
+
+COCOAPODS: 1.2.1

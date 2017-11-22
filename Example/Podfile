@@ -1,0 +1,14 @@
+source 'https://git.oschina.net/travel_zh/osSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+use_frameworks!
+
+target 'CMKRefresh_Example' do
+  pod 'CMKRefresh', :path => '../'
+
+  target 'CMKRefresh_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
