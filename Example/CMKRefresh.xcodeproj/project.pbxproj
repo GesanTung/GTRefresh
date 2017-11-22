@@ -9,8 +9,6 @@
 /* Begin PBXBuildFile section */
 		183797F31EC1A57C0035ADE5 /* RefreshViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183797F21EC1A57C0035ADE5 /* RefreshViewController.swift */; };
 		183797F51EC1A8050035ADE5 /* NavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183797F41EC1A8050035ADE5 /* NavigationController.swift */; };
-		18A23ED11FC5C9AC006A8C33 /* 20160919160349_859.gif in Resources */ = {isa = PBXBuildFile; fileRef = 18A23ED01FC5C9AC006A8C33 /* 20160919160349_859.gif */; };
-		18A23ED51FC5CA7F006A8C33 /* gif3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 18A23ED41FC5CA7E006A8C33 /* gif3.gif */; };
 		23E0151D862C52740DDD8339 /* Pods_CMKRefresh_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6CF417044C79B9E10841D42 /* Pods_CMKRefresh_Tests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
@@ -35,8 +33,6 @@
 		0F922FAE1B4F02FD7A9E73BA /* Pods-CMKRefresh_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CMKRefresh_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CMKRefresh_Tests/Pods-CMKRefresh_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		183797F21EC1A57C0035ADE5 /* RefreshViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RefreshViewController.swift; sourceTree = "<group>"; };
 		183797F41EC1A8050035ADE5 /* NavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationController.swift; sourceTree = "<group>"; };
-		18A23ED01FC5C9AC006A8C33 /* 20160919160349_859.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 20160919160349_859.gif; sourceTree = "<group>"; };
-		18A23ED41FC5CA7E006A8C33 /* gif3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif3.gif; sourceTree = "<group>"; };
 		1ECE3E5F86855D74ECC9E4BC /* Pods_CMKRefresh_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CMKRefresh_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3323AB1DF73EC138A5E27362 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		49B5DFA5463BA050A2AB090D /* Pods-CMKRefresh_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CMKRefresh_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-CMKRefresh_Example/Pods-CMKRefresh_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -142,8 +138,6 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				18A23ED01FC5C9AC006A8C33 /* 20160919160349_859.gif */,
-				18A23ED41FC5CA7E006A8C33 /* gif3.gif */,
 				4F74E45BF6A2BE9BEDF3E052 /* CMKRefresh.podspec */,
 				AC7F2D5B4864F0FCE89637CF /* README.md */,
 				3323AB1DF73EC138A5E27362 /* LICENSE */,
@@ -264,8 +258,6 @@
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
-				18A23ED51FC5CA7F006A8C33 /* gif3.gif in Resources */,
-				18A23ED11FC5C9AC006A8C33 /* 20160919160349_859.gif in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
