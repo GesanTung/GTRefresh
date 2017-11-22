@@ -42,9 +42,16 @@ mutable.addFooterRefresh(custom:CMRefreshFMAnimationFooter()) { [weak self] in
     }
 }
 ```
+#### 效果图
++
++![app preview](https://github.com/GesanTung/GTRefresh/tree/master/Example/gif3.gif)
++
++![app preview](https://github.com/GesanTung/GTRefresh/tree/master/Example/20160919160349_859.gif)
++
 
 #### Communication
 
 Email : tungleungs@gmail.com
 公众号 :iostips
 QQ  : 603482184
+
