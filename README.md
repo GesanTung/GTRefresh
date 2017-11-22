@@ -44,8 +44,8 @@ mutable.addFooterRefresh(custom:CMRefreshFMAnimationFooter()) { [weak self] in
 ```
 #### 效果图
 +
-![](https://github.com/GesanTung/GTRefresh/gif3.gif)
-![](https://github.com/GesanTung/GTRefresh/20160919160349_859.gif)
+![](gif3.gif)
+![](20160919160349_859.gif)
 +
 
 
