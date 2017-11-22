@@ -39,5 +39,12 @@ mutable.addFooterRefresh(custom:CMRefreshFMAnimationFooter()) { [weak self] in
     self?.mutable.stopFooterRefresh(noMore: true)
     self?.count = 40
     self?.mutable.reloadData()
+    }
 }
-}
+```
+
+#### Communication
+
+Email : tungleungs@gmail.com
+公众号 :iostips
+QQ  : 603482184
