@@ -36,9 +36,9 @@ mutable.addHeaderRefresh { [weak self] in
 ```swift
 mutable.addFooterRefresh(custom:CMRefreshFMAnimationFooter()) { [weak self] in
     DispatchQueue.main.asyncAfter(deadline: .now() + 3.0) {
-    self?.mutable.stopFooterRefresh(noMore: true)
-    self?.count = 40
-    self?.mutable.reloadData()
+        self?.mutable.stopFooterRefresh(noMore: true)
+        self?.count = 40
+        self?.mutable.reloadData()
     }
 }
 ```
