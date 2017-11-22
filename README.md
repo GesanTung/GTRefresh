@@ -44,8 +44,9 @@ mutable.addFooterRefresh(custom:CMRefreshFMAnimationFooter()) { [weak self] in
 ```
 #### 效果图
 +
-![](gif3.gif)
-![](20160919160349_859.gif)
++![](gif3.gif)
++
++![](20160919160349_859.gif)
 +
 
 
